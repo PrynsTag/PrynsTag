@@ -9,8 +9,8 @@ Skills: HTML / CSS / JS / MYSQL / PostgreSQL/ Python
 - 🌱 I’m currently learning Pandas and Matplotlib 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/princevelasco/) 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrynsTag&show_icons=true)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PrynsTag)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prynstag//)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='github' height='40'>](https://www.kaggle.com/princecarlvelasco)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='github' height='40'>](https://stackoverflow.com/users/13379735/prince-carl-velasco)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Prynslion)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PrynsTag)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prynstag//)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='github' height='40'>](https://www.kaggle.com/princecarlvelasco)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='github' height='40'>](https://stackoverflow.com/users/13379735/prince-carl-velasco)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Prynslion)  
+
+![Profile views](https://gpvc.arturio.dev/PrynsTag)  
