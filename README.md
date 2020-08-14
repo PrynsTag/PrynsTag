@@ -8,7 +8,7 @@ Skills: HTML / CSS / JS / MYSQL / PostgreSQL/ Python
 
 - 🔭 I’m currently working on analyzing different datasets with pandas and matplotlib 
 - 🌱 I’m currently learning Pandas and Matplotlib 
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/prynstag/) 
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/princevelasco/) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PrynsTag)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prynstag//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Prynslion)  
