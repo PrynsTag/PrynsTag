@@ -3,6 +3,7 @@
 ![I am an aspiring Data Analyst!](https://github.com/PrynsTag/PrynsTag/blob/master/banner_illustration.png)
 ###### (Photo by [Siddhita upare](https://dribbble.com/shots/7250175-Manage-your-own-task))
 During my college years, I am fond of creating and querying databases and thus finding the world of Data Analyst. I'm currently building up my Skills and Portfolio so feel free to look!
+
 Skills: HTML / CSS / PHP / Python / MYSQL / PostgreSQL 
 
 - 🔭 I’m currently working on analyzing different datasets with pandas and matplotlib 
