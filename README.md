@@ -1,9 +1,6 @@
----
-<img src="./img/banner.svg" alt="Github Banner" style="text-align: center" title="Photo by Siddhita Upare">
+<img src="./img/banner.svg" alt="Github Banner" align="center">
 
----
-
-<div id="top-bar" style="text-align: center">
+<div id="top-bar" align="center">
     <p style="font-size: 32px; font-weight: bold">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Hand Wave">, my name is Prince</p>
     <h4>I am an aspiring Full-Stack Developer!</h4>
     <img alt="Stars" src="https://img.shields.io/github/stars/PrynsTag?style=flat-square"/> 
@@ -35,26 +32,24 @@
 </details>
 
 <details>
-  <summary style="font-weight: bold">⚡ Recent GitHub Activity</summary>
-  <br/>
+    <summary style="font-weight: bold">⚡ Recent GitHub Activity</summary>
+    <br/>
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 </details>
 
 ## 🛠️ My Favorite Tools & Technology
 
 ---
 
-<table style="text-align: center;">
+<table>
 <thead>
   <tr>
     <th>Categories</th>
     <th colspan="5">Technology</th>
   </tr>
 </thead>
-<tbody>
+<tbody align="center">
   <tr>
     <td>Programming Language</td>
     <td>
@@ -297,7 +292,7 @@
 
 ---
 
-<p style="text-align: center;">
+<p align="center">
     📫 How to reach me: 
     <a href="https://www.linkedin.com/in/princevelasco/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Shield">
