@@ -1,46 +1,42 @@
 <img src="./img/banner.svg" alt="Github Banner" align="center">
 
 <div id="top-bar" align="center">
-    <p style="font-size: 32px; font-weight: bold">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Hand Wave">, my name is Prince</p>
+    <h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Hand Wave">, my name is Prince</h3>
     <h4>I am an aspiring Full-Stack Developer!</h4>
     <img alt="Stars" src="https://img.shields.io/github/stars/PrynsTag?style=flat-square"/> 
     <img alt="Followers" src="https://img.shields.io/github/followers/PrynsTag?style=flat-square"/>
     <img alt="Profile Views" src="https://gpvc.arturio.dev/PrynsTag?color=red"/>
 </div>
 
+<p align="center">
+    <img alt="PrynsTag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrynsTag&theme=merko"/>
+</p>
+
 - 🔭 I’m currently working on APIs! 
 - 🌱 I’m currently learning Python, Vue, and Fullstack development!
 - 👯 I'm looking to collaborate on full-stack web apps!
 - 💬 Ask me about anything Python and Vue
-- 📫 Connect with me on: [![LinkedIn][linkedin-shield]][linkedin-url]
-<br>
-<br>
-<p style="text-align:center">
-    <img alt="PrynsTag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrynsTag&theme=merko"/>
-</p>
+- 📫 Connect with me on: [**LinkedIn**][linkedin-url]
+
 
 
 ## 📊 Github stats
 
----
-
 <details> 
-    <summary style="font-weight: bold">:octocat: GitHub Profile Stats</summary>
+    <summary>:octocat: GitHub Profile Stats</summary>
     <br/>
     <img alt="PrynsTag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PrynsTag&show_icons=true&theme=merko" height="192px" width="460px"/> &nbsp;&nbsp;
     <img alt="PrynsTag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrynsTag&layout=compact&theme=merko&hide=html,jupyter%20notebook" height="192px" width="375px"/>
 </details>
 
 <details>
-    <summary style="font-weight: bold">⚡ Recent GitHub Activity</summary>
+    <summary>⚡ Recent GitHub Activity</summary>
     <br/>
 
 <!--START_SECTION:activity-->
 </details>
 
 ## 🛠️ My Favorite Tools & Technology
-
----
 
 <table>
 <thead>
@@ -293,7 +289,8 @@
 ---
 
 <p align="center">
-    📫 How to reach me: 
+    📫 How to reach me
+    <br>
     <a href="https://www.linkedin.com/in/princevelasco/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Shield">
     </a>
