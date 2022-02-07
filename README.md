@@ -34,11 +34,11 @@
     <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#650](https://github.com/Tivix/django-rest-auth/issues/650) in [Tivix/django-rest-auth](https://github.com/Tivix/django-rest-auth)
-2. 🎉 Merged PR [#1](https://github.com/PrynsTag/PrynsTag/pull/1) in [PrynsTag/PrynsTag](https://github.com/PrynsTag/PrynsTag)
-3. 🎉 Merged PR [#109](https://github.com/PrynsTag/oneBarangay/pull/109) in [PrynsTag/oneBarangay](https://github.com/PrynsTag/oneBarangay)
-4. 🎉 Merged PR [#108](https://github.com/PrynsTag/oneBarangay/pull/108) in [PrynsTag/oneBarangay](https://github.com/PrynsTag/oneBarangay)
-5. 🎉 Merged PR [#104](https://github.com/PrynsTag/oneBarangay/pull/104) in [PrynsTag/oneBarangay](https://github.com/PrynsTag/oneBarangay)
+1. 💪 Opened PR [#5](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/5) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+2. 🎉 Merged PR [#3](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/3) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+3. 🎉 Merged PR [#2](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/2) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+4. 🎉 Merged PR [#4](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/4) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+5. 🗣 Commented on [#1](https://github.com/PrynsTag/oneBarangay-PostgreSQL/issues/1) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
 <!--END_SECTION:activity-->
 </details>
 
