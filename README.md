@@ -34,11 +34,11 @@
     <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/9) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-2. 💪 Opened PR [#9](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/9) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-3. 🎉 Merged PR [#8](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/8) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-4. 🎉 Merged PR [#5](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/5) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-5. ❗️ Closed issue [#7](https://github.com/PrynsTag/oneBarangay-PostgreSQL/issues/7) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+1. 🎉 Merged PR [#10](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/10) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+2. 🎉 Merged PR [#9](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/9) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+3. 💪 Opened PR [#9](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/9) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+4. 🎉 Merged PR [#8](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/8) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+5. 🎉 Merged PR [#5](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/5) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
 <!--END_SECTION:activity-->
 </details>
 
