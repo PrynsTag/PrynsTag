@@ -34,11 +34,11 @@
     <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#790](https://github.com/jazzband/django-taggit/issues/790) in [jazzband/django-taggit](https://github.com/jazzband/django-taggit)
-2. ❗️ Closed issue [#790](https://github.com/jazzband/django-taggit/issues/790) in [jazzband/django-taggit](https://github.com/jazzband/django-taggit)
-3. ❗️ Opened issue [#790](https://github.com/jazzband/django-taggit/issues/790) in [jazzband/django-taggit](https://github.com/jazzband/django-taggit)
-4. 🗣 Commented on [#715](https://github.com/jazzband/django-taggit/issues/715) in [jazzband/django-taggit](https://github.com/jazzband/django-taggit)
-5. 🎉 Merged PR [#10](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/10) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+1. 🎉 Merged PR [#13](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/13) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+2. 🎉 Merged PR [#12](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/12) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+3. 🎉 Merged PR [#11](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/11) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+4. 🗣 Commented on [#790](https://github.com/jazzband/django-taggit/issues/790) in [jazzband/django-taggit](https://github.com/jazzband/django-taggit)
+5. ❗️ Closed issue [#790](https://github.com/jazzband/django-taggit/issues/790) in [jazzband/django-taggit](https://github.com/jazzband/django-taggit)
 <!--END_SECTION:activity-->
 </details>
 
