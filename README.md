@@ -14,7 +14,7 @@
 - 💬 Ask me about anything Python and Vue
 - 📫 Connect with me on: [**LinkedIn**][linkedin-url]
 
-
+<script src="https://gist.github.com/matchai/6d5f84419863089a167387da62dd7081.js"></script>
 
 ## 📊 Github stats
 
@@ -48,6 +48,13 @@
     <p align="center">
         <img src="https://wakatime.com/share/@PrynsTag/82d9447d-fad9-40d1-87c3-586ca3324e39.svg"/>
     </p>
+</details>
+
+<details>
+    <summary>:computer: WakaTime Programming Language Stats</summary>
+    <br/>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </details>
 
 ## 🛠️ My Favorite Tools & Technology
