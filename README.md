@@ -325,6 +325,17 @@
 
 ---
 
+<div>
+    <p align="center" style="font-size: x-large; font-weight: bold">:point_right: Support Me</p>
+    <p align="center">
+        <a href="https://www.buymeacoffee.com/PrynsTag" target="_blank">
+            <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+        </a>
+    </p>
+</div>
+
+---
+
 [//]: # (Implement Later)
 [//]: # (![Prince's WakaTime stats][wakatime-stats-url])
 
