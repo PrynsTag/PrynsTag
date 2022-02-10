@@ -334,9 +334,6 @@
 
 ---
 
-[//]: # (Implement Later)
-[//]: # (![Prince's WakaTime stats][wakatime-stats-url])
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-url]: https://www.linkedin.com/in/princevelasco/
@@ -363,7 +360,6 @@
 [banner-url]: https://github.com/PrynsTag/PrynsTag/blob/master/banner_illustration.png
 [banner-author-url]: https://dribbble.com/shots/7250175-Manage-your-own-task
 
-[wakatime-stats-url]: https://github-readme-stats.vercel.app/api/wakatime?username=PrynsTag&theme=merko
 [github-stats-url]: https://github-readme-stats.vercel.app/api?username=PrynsTag&show_icons=true&theme=merko
 [github-top-lang-url]: https://github-readme-stats.vercel.app/api/top-langs/?username=PrynsTag&layout=compact&theme=merko&hide=html,jupyter%20notebook
 [streak-stats-url]: https://github-readme-streak-stats.herokuapp.com/?user=PrynsTag&theme=merko
