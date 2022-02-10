@@ -43,7 +43,7 @@
 
 ## WakaTime Stats
 <details>
-    <summary>:clock1: WakaTime Stats</summary>
+    <summary>:clock1: WakaTime Coding Hours Stats</summary>
     <br/>
     <p align="center">
         <img src="https://wakatime.com/share/@PrynsTag/82d9447d-fad9-40d1-87c3-586ca3324e39.svg"/>
