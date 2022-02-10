@@ -41,7 +41,7 @@
 <!--END_SECTION:activity-->
 </details>
 
-## WakaTime Stats
+## 📊 WakaTime Stats
 <details>
     <summary>:clock1: WakaTime Coding Hours Stats</summary>
     <br/>
