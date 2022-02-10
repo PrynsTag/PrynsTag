@@ -18,12 +18,14 @@
 
 ## 📊 Github stats
 
-<details align="center"> 
+<details> 
     <summary>:octocat: GitHub Profile Stats</summary>
     <br/>
-    <img alt="PrynsTag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrynsTag&layout=compact&theme=merko&hide=html,jupyter%20notebook" height="192px" width="375px"/>
-    <img alt="PrynsTag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PrynsTag&show_icons=true&theme=merko" height="192px" width="460px"/> &nbsp;&nbsp;
-    <img alt="PrynsTag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrynsTag&theme=merko"/>
+    <p align="center">
+        <img alt="PrynsTag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrynsTag&layout=compact&theme=merko&hide=html,jupyter%20notebook" height="192px" width="375px"/>
+        <img alt="PrynsTag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PrynsTag&show_icons=true&theme=merko" height="192px" width="460px"/> &nbsp;&nbsp;
+        <img alt="PrynsTag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrynsTag&theme=merko"/>
+    </p>
 </details>
 
 <details>
