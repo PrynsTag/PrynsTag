@@ -8,10 +8,6 @@
     <img alt="Profile Views" src="https://gpvc.arturio.dev/PrynsTag?color=red"/>
 </div>
 
-<p align="center">
-    <img alt="PrynsTag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrynsTag&theme=merko"/>
-</p>
-
 - 🔭 I’m currently working on APIs! 
 - 🌱 I’m currently learning Python, Vue, and Fullstack development!
 - 👯 I'm looking to collaborate on full-stack web apps!
@@ -22,11 +18,12 @@
 
 ## 📊 Github stats
 
-<details> 
+<details align="center"> 
     <summary>:octocat: GitHub Profile Stats</summary>
     <br/>
-    <img alt="PrynsTag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PrynsTag&show_icons=true&theme=merko" height="192px" width="460px"/> &nbsp;&nbsp;
     <img alt="PrynsTag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrynsTag&layout=compact&theme=merko&hide=html,jupyter%20notebook" height="192px" width="375px"/>
+    <img alt="PrynsTag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PrynsTag&show_icons=true&theme=merko" height="192px" width="460px"/> &nbsp;&nbsp;
+    <img alt="PrynsTag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrynsTag&theme=merko"/>
 </details>
 
 <details>
