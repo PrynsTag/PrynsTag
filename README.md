@@ -309,8 +309,8 @@
 
 ---
 
-<p align="center">
-    📫 How to reach me
+<div align="center">
+    <h3>📫 How to reach me</h3>
     <br>
     <a href="https://www.linkedin.com/in/princevelasco/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Shield">
@@ -321,12 +321,12 @@
     <a href="mailto:paa0gwv7r@mozmail.com?subject= Just Want to Reach Out!">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Shield">
     </a>
-</p>
+</div>
 
 ---
 
 <div>
-    <p align="center" style="font-size: x-large; font-weight: bold">:point_right: Support Me</p>
+    <h3 align="center">:point_right: Support Me</h3>
     <p align="center">
         <a href="https://www.buymeacoffee.com/PrynsTag" target="_blank">
             <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
