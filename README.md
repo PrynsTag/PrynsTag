@@ -52,8 +52,13 @@
     <summary>:computer: WakaTime Programming Language Stats</summary>
     <br/>
 <!--START_SECTION:waka-->
-
-
+```text
+Python   35 hrs 18 mins  █████████████████▒░░░░░░░   69.76 % 
+YAML     4 hrs 58 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Text     1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+INI      1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Bash     1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+```
 <!--END_SECTION:waka-->
 </details>
 
