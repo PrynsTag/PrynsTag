@@ -331,9 +331,9 @@ Bash     1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░�
 
 ---
 
-<div>
-    <h3 align="center">:point_right: Support Me</h3>
-    <p align="center">
+<div align="center">
+    <h3>:point_right: Support Me</h3>
+    <p>
         <a href="https://www.buymeacoffee.com/PrynsTag" target="_blank">
             <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" >
         </a>
