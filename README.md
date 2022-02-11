@@ -337,6 +337,9 @@ Bash     1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░�
         <a href="https://www.buymeacoffee.com/PrynsTag" target="_blank">
             <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
         </a>
+        <a href="https://www.paypal.com/donate/?hosted_button_id=HRJXYEAC4VVEY">
+            <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal Logo">
+        </a>
     </p>
 </div>
 
