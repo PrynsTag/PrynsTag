@@ -51,6 +51,7 @@
 <details>
     <summary>:computer: WakaTime Programming Language Stats</summary>
     <br/>
+
 <!--START_SECTION:waka-->
 ```text
 Python   35 hrs 18 mins  █████████████████▒░░░░░░░   69.76 % 
