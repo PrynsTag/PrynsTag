@@ -317,7 +317,6 @@ Bash     1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░�
 
 <div align="center">
     <h3>📫 How to reach me</h3>
-    <br>
     <a href="https://www.linkedin.com/in/princevelasco/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Shield">
     </a>
