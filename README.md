@@ -54,11 +54,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python                 35 hrs          ███████████████████▓░░░░░   79.09 % 
-YAML                   3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Markdown               2 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-GitIgnore file         51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-BashPro Shell Script   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Python     35 hrs 58 mins  █████████████████████▓░░░   87.29 % 
+Markdown   2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+YAML       1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+HTML       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Bash       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
 </details>
