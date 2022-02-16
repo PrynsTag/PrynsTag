@@ -54,13 +54,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 46 hrs 16 mins
+Total: 39 hrs 52 mins
 
-Python                 40 hrs 48 mins  ██████████████████████░░░   88.19 % 
-Markdown               2 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-YAML                   1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-HTML                   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-requirements-pro.txt   15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Python     34 hrs 5 mins   █████████████████████▒░░░   85.48 % 
+Markdown   2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+YAML       1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+HTML       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Bash       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 <!--END_SECTION:waka-->
 </details>
