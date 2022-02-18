@@ -54,13 +54,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 38 hrs 15 mins
+Total: 35 hrs 52 mins
 
-Python     29 hrs 12 mins  ███████████████████░░░░░░   76.33 % 
-YAML       3 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Markdown   2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Bash       52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-INI        34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Python                 27 hrs 13 mins  ███████████████████░░░░░░   75.93 % 
+YAML                   4 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Bash                   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+.env file              36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+BashPro Shell Script   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 <!--END_SECTION:waka-->
 </details>
