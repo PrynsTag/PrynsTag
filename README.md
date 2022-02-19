@@ -54,8 +54,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 35 hrs 52 mins
-
 Python                 27 hrs 13 mins  ███████████████████░░░░░░   75.93 % 
 YAML                   4 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 Bash                   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
