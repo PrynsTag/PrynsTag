@@ -26,10 +26,6 @@
     </p>
 </details>
 
-<details>
-    <summary>⚡ Recent GitHub Activity</summary>
-    <br/>
-
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/PrynsTag/PrynsTag/pull/2) in [PrynsTag/PrynsTag](https://github.com/PrynsTag/PrynsTag)
 2. 🎉 Merged PR [#14](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/14) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
@@ -37,7 +33,6 @@
 4. ❌ Closed PR [#16](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/16) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
 5. 🗣 Commented on [#15](https://github.com/PrynsTag/oneBarangay-PostgreSQL/issues/15) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
 <!--END_SECTION:activity-->
-</details>
 
 ## 📊 WakaTime Stats
 <details>
@@ -48,16 +43,13 @@
     </p>
 </details>
 
-<details>
-    <summary>:computer: WakaTime Programming Stats</summary>
-    <br/>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</details>
 
 ## 🛠️ My Favorite Tools & Technology
 
+<details>
+<summary>:computer: Programming Languages and Tools that I Use</summary>
 <table>
 <thead>
   <tr>
@@ -305,6 +297,7 @@
   </tr>
 </tbody>
 </table>
+</details>
 
 ---
 
