@@ -1,0 +1,27 @@
+
+  name: Update WakaTime Stats
+
+  on:
+    schedule:
+      - cron: '*/30 * * * *'
+    workflow_dispatch:
+
+  jobs:
+    update-wakatime-stats:
+      name: Update Readme with Wakatime Stats
+      runs-on: ubuntu-latest
+      steps:
+        - uses: anmol098/waka-readme-stats@master
+          with:
+            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # https://github.com/anmol098/waka-readme-stats
+            GH_TOKEN: ${{ secrets.GH_TOKEN }}
+            USERNAME: PrynsTag
+            SHOW_OS: "True"
+            SHOW_UPDATED_DATE: "True"
+            SHOW_PROJECTS: "True"
+            SHOW_PROFILE_VIEWS: "False"
+            SHOW_EDITORS: "False"
+            SHOW_LOC_CHART: "False"
+            SHOW_LINES_OF_CODE: "True"
+            SHOW_SHORT_INFO: "False"
+            COMMIT_BY_ME: "True"
