@@ -27,11 +27,11 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/28) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-2. 💪 Opened PR [#28](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/28) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-3. 🎉 Merged PR [#27](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/27) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-4. 🎉 Merged PR [#26](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/26) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-5. 🎉 Merged PR [#25](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/25) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+1. 💪 Opened PR [#32](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/32) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+2. 🎉 Merged PR [#28](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/28) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+3. 💪 Opened PR [#28](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/28) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+4. 🎉 Merged PR [#27](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/27) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+5. 🎉 Merged PR [#26](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/26) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
 <!--END_SECTION:activity-->
 
 ## 📊 WakaTime Stats
