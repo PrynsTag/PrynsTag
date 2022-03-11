@@ -27,11 +27,11 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/28) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-2. 💪 Opened PR [#28](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/28) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-3. 🎉 Merged PR [#27](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/27) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-4. 🎉 Merged PR [#26](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/26) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-5. 🎉 Merged PR [#25](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/25) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+1. 🎉 Merged PR [#38](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/38) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+2. 🎉 Merged PR [#37](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/37) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+3. 🎉 Merged PR [#36](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/36) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+4. 🎉 Merged PR [#35](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/35) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+5. 🎉 Merged PR [#39](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/39) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
 <!--END_SECTION:activity-->
 
 ## 📊 WakaTime Stats
@@ -44,29 +44,29 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-762%20hrs%2037%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-832%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-831%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    225 commits    █████░░░░░░░░░░░░░░░░░░░░   22.59% 
-🌆 Daytime    243 commits    ██████░░░░░░░░░░░░░░░░░░░   24.4% 
-🌃 Evening    337 commits    ████████░░░░░░░░░░░░░░░░░   33.84% 
-🌙 Night      191 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.18%
+🌞 Morning    249 commits    ██████░░░░░░░░░░░░░░░░░░░   24.83% 
+🌆 Daytime    244 commits    ██████░░░░░░░░░░░░░░░░░░░   24.33% 
+🌃 Evening    326 commits    ████████░░░░░░░░░░░░░░░░░   32.5% 
+🌙 Night      184 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.34%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
-Tuesday      106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
-Wednesday    215 commits    █████░░░░░░░░░░░░░░░░░░░░   21.59% 
-Thursday     144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
-Friday       176 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
-Saturday     98 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-Sunday       156 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.66%
+Monday       100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
+Tuesday      105 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
+Wednesday    237 commits    ██████░░░░░░░░░░░░░░░░░░░   23.63% 
+Thursday     141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
+Friday       174 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
+Saturday     93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.27% 
+Sunday       153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.25%
 
 ```
 
@@ -77,22 +77,22 @@ Sunday       156 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Python                   27 hrs 40 mins      █████████████████░░░░░░░░   69.03% 
-YAML                     5 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-SQL                      3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
-INI                      50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
-Bash                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
+Vue.js                   31 hrs 2 mins       ██████████████░░░░░░░░░░░   57.87% 
+TypeScript               9 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.27% 
+Python                   5 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
+SQL                      3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
+JavaScript               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.51%
 
 🔥 Editors: 
-PyCharm                  40 hrs 6 mins       █████████████████████████   100.0%
+PyCharm                  53 hrs 38 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-oneBarangay-PostgreSQL   38 hrs 39 mins      ████████████████████████░   96.38% 
-PrynsTag                 47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96% 
-one_barangay             39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66%
+oneBarangay-PostgreSQL   51 hrs 18 mins      ████████████████████████░   95.64% 
+one_barangay             1 hr 40 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11% 
+vuestic-admin            40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
 
 💻 Operating System: 
-Linux                    40 hrs 6 mins       █████████████████████████   100.0%
+Linux                    53 hrs 38 mins      █████████████████████████   100.0%
 
 ```
 
@@ -109,7 +109,7 @@ Kotlin                   9 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 23/02/2022 02:29:56 UTC
+ Last Updated on 11/03/2022 01:15:28 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
