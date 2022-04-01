@@ -27,9 +27,9 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/38) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-2. 🎉 Merged PR [#37](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/37) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
-3. 🎉 Merged PR [#36](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/36) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
+1. ❗️ Opened issue [#391](https://github.com/farridav/django-jazzmin/issues/391) in [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin)
+2. 🗣 Commented on [#127](https://github.com/farridav/django-jazzmin/issues/127) in [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin)
+3. 🗣 Commented on [#336](https://github.com/farridav/django-jazzmin/issues/336) in [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin)
 4. 🎉 Merged PR [#35](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/35) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
 5. 🎉 Merged PR [#39](https://github.com/PrynsTag/oneBarangay-PostgreSQL/pull/39) in [PrynsTag/oneBarangay-PostgreSQL](https://github.com/PrynsTag/oneBarangay-PostgreSQL)
 <!--END_SECTION:activity-->
