@@ -27,11 +27,11 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#76](https://github.com/PrynsTag/oneBarangay-REST-API/pull/76) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-2. 🎉 Merged PR [#75](https://github.com/PrynsTag/oneBarangay-REST-API/pull/75) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-3. 🎉 Merged PR [#74](https://github.com/PrynsTag/oneBarangay-REST-API/pull/74) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-4. 🎉 Merged PR [#73](https://github.com/PrynsTag/oneBarangay-REST-API/pull/73) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-5. 💪 Opened PR [#73](https://github.com/PrynsTag/oneBarangay-REST-API/pull/73) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+1. 🎉 Merged PR [#77](https://github.com/PrynsTag/oneBarangay-REST-API/pull/77) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+2. 💪 Opened PR [#77](https://github.com/PrynsTag/oneBarangay-REST-API/pull/77) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+3. 🗣 Commented on [#391](https://github.com/farridav/django-jazzmin/issues/391) in [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin)
+4. 🎉 Merged PR [#76](https://github.com/PrynsTag/oneBarangay-REST-API/pull/76) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+5. 🎉 Merged PR [#75](https://github.com/PrynsTag/oneBarangay-REST-API/pull/75) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
 <!--END_SECTION:activity-->
 
 ## 📊 WakaTime Stats
