@@ -27,11 +27,11 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/PrynsTag/oneBarangay-REST-API/pull/77) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-2. 💪 Opened PR [#77](https://github.com/PrynsTag/oneBarangay-REST-API/pull/77) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-3. 🗣 Commented on [#391](https://github.com/farridav/django-jazzmin/issues/391) in [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin)
-4. 🎉 Merged PR [#76](https://github.com/PrynsTag/oneBarangay-REST-API/pull/76) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-5. 🎉 Merged PR [#75](https://github.com/PrynsTag/oneBarangay-REST-API/pull/75) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+1. 🗣 Commented on [#397](https://github.com/farridav/django-jazzmin/issues/397) in [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin)
+2. 🗣 Commented on [#392](https://github.com/farridav/django-jazzmin/issues/392) in [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin)
+3. 🗣 Commented on [#393](https://github.com/farridav/django-jazzmin/issues/393) in [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin)
+4. ❌ Reopened PR [#393](https://github.com/farridav/django-jazzmin/pull/393) in [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin)
+5. ❌ Closed PR [#392](https://github.com/farridav/django-jazzmin/pull/392) in [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin)
 <!--END_SECTION:activity-->
 
 ## 📊 WakaTime Stats
