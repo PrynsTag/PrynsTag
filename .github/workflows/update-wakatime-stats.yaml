@@ -15,7 +15,6 @@
           with:
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
-            USERNAME: PrynsTag
             COMMIT_MESSAGE: 'refactor[wakatime]: update wakatime stats'
             SHOW_UPDATED_DATE: "True"
             SHOW_PROFILE_VIEWS: "False"
