@@ -44,7 +44,7 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-997%20Thousand%20lines%20of%20code-blue)
 
@@ -77,16 +77,24 @@ Sunday       101 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     8 hrs 16 mins       █████████████████░░░░░░░░   67.81% 
+YAML                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
+HTML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
+CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34% 
+Groovy                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 12 hrs 8 mins       █████████████████████████   99.54% 
+PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Code Sharing Platform    9 hrs 57 mins       ████████████████████░░░░░   81.62% 
+Unknown Project          2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.23% 
+Code_Sharing_Platform    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68% 
+Udemy_Enroller           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
@@ -103,7 +111,7 @@ Kotlin                   9 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 05/06/2022 16:30:29 UTC
+ Last Updated on 05/06/2022 16:59:29 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
