@@ -44,11 +44,11 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-983%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-997%20Thousand%20lines%20of%20code-blue)
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    225 commits    ███████░░░░░░░░░░░░░░░░░░   29.07% 
@@ -57,7 +57,7 @@
 🌙 Night      104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.44%
 
 ```
-📅 **I'm most productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.79% 
@@ -71,7 +71,7 @@ Sunday       101 commits    ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Manila
@@ -99,7 +99,7 @@ Windows                  8 hrs 6 mins        ███████████�
 
 ```
 
-**💻 I mostly code in Swift** 
+**I Mostly Code in Swift** 
 
 ```text
 Swift                    16 repos            █████░░░░░░░░░░░░░░░░░░░░   21.33% 
@@ -112,7 +112,7 @@ Kotlin                   9 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:50:13 UTC
+ Last Updated on 12/06/2022 08:33:21 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
