@@ -44,7 +44,7 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1000%20Thousand%20lines%20of%20code-blue)
 
@@ -77,20 +77,16 @@ Sunday       112 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-YAML                     8 mins              ███████████░░░░░░░░░░░░░░   44.52% 
-Groovy                   8 mins              ██████████░░░░░░░░░░░░░░░   42.33% 
-Java                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Account Service          11 mins             █████████████░░░░░░░░░░░░   55.46% 
-Unknown Project          8 mins              ███████████░░░░░░░░░░░░░░   44.54%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -107,7 +103,7 @@ Kotlin                   9 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 10/07/2022 16:31:07 UTC
+ Last Updated on 10/07/2022 17:07:12 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
