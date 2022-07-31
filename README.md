@@ -3,8 +3,8 @@
 <div id="top-bar" align="center">
     <h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Hand Wave">, my name is Prince</h3>
     <h4>I am an aspiring Full-Stack Developer!</h4>
-    <img alt="Stars" src="https://img.shields.io/github/stars/PrynsTag?style=flat-square"/> 
-    <img alt="Followers" src="https://img.shields.io/github/followers/PrynsTag?style=flat-square"/>
+    <img alt="Stars" src="https://img.shields.io/github/stars/PrynsTag"/> 
+    <img alt="Followers" src="https://img.shields.io/github/followers/PrynsTag"/>
     <img alt="Profile Views" src="https://gpvc.arturio.dev/PrynsTag?color=red"/>
     <a target="_blank">
         <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fprincevelasco.com">
