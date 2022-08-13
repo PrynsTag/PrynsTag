@@ -379,8 +379,8 @@ Kotlin                   9 repos             ███░░░░░░░░�
     <a href="https://www.linkedin.com/in/princevelasco/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Shield">
     </a>
-    <a href="https://github.com/PrynsTag">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Shield">
+    <a href="https://twitter.com/PrynsTag">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Shield">
     </a>
     <a href="mailto:paa0gwv7r@mozmail.com?subject= Just Want to Reach Out!">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Shield">
@@ -435,6 +435,9 @@ Kotlin                   9 repos             ███░░░░░░░░�
 
 [profile-views-url]: https://gpvc.arturio.dev/PrynsTag?color=red
 [profile-views-shield]: https://img.shields.io/badge/Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white
+
+[twitter-url]: https://twitter.com/PrynsTag
+[twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
 <!-- Programming Language Shields -->
 [python-shield]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
