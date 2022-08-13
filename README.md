@@ -6,7 +6,7 @@
     <img alt="Stars" src="https://img.shields.io/github/stars/PrynsTag"/> 
     <img alt="Github Followers" src="https://img.shields.io/github/followers/PrynsTag?label=Github%20Followers"/>
     <img alt="Profile Views" src="https://gpvc.arturio.dev/PrynsTag?color=red"/>
-    <a target="_blank">
+    <a href="https://princevelasco.com/" target="_blank">
         <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fprincevelasco.com">
     </a>
 </div>
