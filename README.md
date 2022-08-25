@@ -80,17 +80,16 @@ Sunday       71 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Java                     1 hr 30 mins        █████████████████████████   99.95% 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 30 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CodingDojo               1 hr 30 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 30 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -107,7 +106,7 @@ Kotlin                   9 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 25/08/2022 16:28:57 UTC
+ Last Updated on 25/08/2022 17:03:58 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
