@@ -388,6 +388,9 @@ Kotlin                   9 repos             ███░░░░░░░░�
         <a href="https://www.paypal.com/donate/?hosted_button_id=HRJXYEAC4VVEY">
             <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal Logo">
         </a>
+        <a href="https://www.patreon.com/prynstag">
+            <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon Logo">
+        </a>
     </p>
 </div>
 
