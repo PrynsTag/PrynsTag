@@ -30,7 +30,7 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#202](https://github.com/PrynsTag/oneBarangay-REST-API/pull/202) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+1. 🗣 Commented on [#94](https://github.com/MariaDB/mariadb-docker/issues/94) in [MariaDB/mariadb-docker](https://github.com/MariaDB/mariadb-docker)
 2. 🎉 Merged PR [#201](https://github.com/PrynsTag/oneBarangay-REST-API/pull/201) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
 3. 🎉 Merged PR [#200](https://github.com/PrynsTag/oneBarangay-REST-API/pull/200) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
 4. 🎉 Merged PR [#12](https://github.com/PrynsTag/oneBarangay-Vue/pull/12) in [PrynsTag/oneBarangay-Vue](https://github.com/PrynsTag/oneBarangay-Vue)
