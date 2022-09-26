@@ -80,17 +80,16 @@ Sunday       71 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-JavaScript               15 mins             ███████████████████████░░   91.66% 
-HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.34%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AP K2_SA_07-1            17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -107,7 +106,7 @@ Kotlin                   9 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 26/09/2022 16:34:53 UTC
+ Last Updated on 26/09/2022 17:12:32 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
