@@ -372,7 +372,7 @@ Kotlin                   9 repos             ███░░░░░░░░�
     <a href="https://twitter.com/PrynsTag">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Shield">
     </a>
-    <a href="mailto:paa0gwv7r@mozmail.com?subject= Just Want to Reach Out!">
+    <a href="mailto:github@princevelasco.com?subject= Just Want to Reach Out!">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Shield">
     </a>
 </div>
