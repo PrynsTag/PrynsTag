@@ -47,9 +47,9 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%2022%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-953%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-952%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -65,11 +65,11 @@
 ```text
 Monday       26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
 Tuesday      54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
-Wednesday    107 commits    ██████░░░░░░░░░░░░░░░░░░░   27.44% 
-Thursday     18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
+Wednesday    105 commits    ██████░░░░░░░░░░░░░░░░░░░   26.92% 
+Thursday     25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
 Friday       63 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
 Saturday     51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
-Sunday       71 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.21%
+Sunday       66 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.92%
 
 ```
 
@@ -106,7 +106,7 @@ Kotlin                   9 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 28/09/2022 23:30:09 UTC
+ Last Updated on 28/09/2022 23:55:06 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
