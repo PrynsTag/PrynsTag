@@ -80,16 +80,16 @@ Sunday       71 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+oneBarangay-REST-API     0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +106,7 @@ Kotlin                   9 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 28/09/2022 16:03:29 UTC
+ Last Updated on 28/09/2022 16:41:52 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
