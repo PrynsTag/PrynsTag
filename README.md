@@ -30,11 +30,11 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/MariaDB/mariadb-docker/issues/94) in [MariaDB/mariadb-docker](https://github.com/MariaDB/mariadb-docker)
-2. 🎉 Merged PR [#201](https://github.com/PrynsTag/oneBarangay-REST-API/pull/201) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-3. 🎉 Merged PR [#200](https://github.com/PrynsTag/oneBarangay-REST-API/pull/200) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-4. 🎉 Merged PR [#12](https://github.com/PrynsTag/oneBarangay-Vue/pull/12) in [PrynsTag/oneBarangay-Vue](https://github.com/PrynsTag/oneBarangay-Vue)
-5. 🎉 Merged PR [#10](https://github.com/PrynsTag/oneBarangay-Vue/pull/10) in [PrynsTag/oneBarangay-Vue](https://github.com/PrynsTag/oneBarangay-Vue)
+1. 🎉 Merged PR [#234](https://github.com/PrynsTag/oneBarangay-REST-API/pull/234) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+2. 🎉 Merged PR [#233](https://github.com/PrynsTag/oneBarangay-REST-API/pull/233) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+3. 🎉 Merged PR [#232](https://github.com/PrynsTag/oneBarangay-REST-API/pull/232) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+4. 🎉 Merged PR [#231](https://github.com/PrynsTag/oneBarangay-REST-API/pull/231) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+5. 🎉 Merged PR [#230](https://github.com/PrynsTag/oneBarangay-REST-API/pull/230) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
 <!--END_SECTION:activity-->
 
 ## 📊 WakaTime Stats
