@@ -47,7 +47,7 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-952%20Thousand%20lines%20of%20code-blue)
 
@@ -113,7 +113,7 @@ Kotlin                   9 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 23/10/2022 06:14:18 UTC
+ Last Updated on 23/10/2022 08:35:17 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
