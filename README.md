@@ -30,7 +30,7 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#243](https://github.com/PrynsTag/oneBarangay-REST-API/pull/243) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+1. ❗️ Opened issue [#39](https://github.com/statico/jsgrids/issues/39) in [statico/jsgrids](https://github.com/statico/jsgrids)
 2. 🎉 Merged PR [#247](https://github.com/PrynsTag/oneBarangay-REST-API/pull/247) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
 3. 🎉 Merged PR [#246](https://github.com/PrynsTag/oneBarangay-REST-API/pull/246) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
 4. 🎉 Merged PR [#245](https://github.com/PrynsTag/oneBarangay-REST-API/pull/245) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
