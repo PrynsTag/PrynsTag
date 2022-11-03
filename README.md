@@ -383,6 +383,10 @@ Kotlin                   9 repos             ███░░░░░░░░�
     <a href="https://angel.co/u/prynstag/">
         <img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" alt="Angellist Shield">
     </a>
+    <a href="https://my.indeed.com/p/princecarlv-rnxqsk8">
+        <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white" alt="Indeed Shield">
+    </a>
+    <br>
     <a href="https://twitter.com/PrynsTag">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Shield">
     </a>
