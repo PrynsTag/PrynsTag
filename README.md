@@ -49,16 +49,16 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C143%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C142%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-952%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    132 commits    ████████░░░░░░░░░░░░░░░░░   33.76% 
+🌞 Morning    131 commits    ████████░░░░░░░░░░░░░░░░░   33.5% 
 🌆 Daytime    66 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
-🌃 Evening    146 commits    █████████░░░░░░░░░░░░░░░░   37.34% 
+🌃 Evening    147 commits    █████████░░░░░░░░░░░░░░░░   37.6% 
 🌙 Night      47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.02%
 
 ```
@@ -68,9 +68,9 @@
 Monday       26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.65% 
 Tuesday      54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
 Wednesday    105 commits    ██████░░░░░░░░░░░░░░░░░░░   26.85% 
-Thursday     27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.91% 
+Thursday     26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.65% 
 Friday       63 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
-Saturday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
+Saturday     51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
 Sunday       66 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88%
 
 ```
@@ -117,7 +117,7 @@ Kotlin                   9 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 03/11/2022 03:35:56 UTC
+ Last Updated on 03/11/2022 01:47:23 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
@@ -379,6 +379,9 @@ Kotlin                   9 repos             ███░░░░░░░░�
     <h3>🏭 Hire me</h3>
     <a href="https://www.linkedin.com/in/princevelasco/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Shield">
+    </a>
+    <a href="https://angel.co/u/prynstag/">
+        <img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" alt="Angellist Shield">
     </a>
     <a href="https://twitter.com/PrynsTag">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Shield">
