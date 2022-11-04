@@ -32,11 +32,11 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/statico/jsgrids/issues/39) in [statico/jsgrids](https://github.com/statico/jsgrids)
-2. 🎉 Merged PR [#247](https://github.com/PrynsTag/oneBarangay-REST-API/pull/247) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-3. 🎉 Merged PR [#246](https://github.com/PrynsTag/oneBarangay-REST-API/pull/246) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-4. 🎉 Merged PR [#245](https://github.com/PrynsTag/oneBarangay-REST-API/pull/245) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-5. ❗️ Closed issue [#11](https://github.com/ggtylerr/divolt-desktop/issues/11) in [ggtylerr/divolt-desktop](https://github.com/ggtylerr/divolt-desktop)
+1. 🗣 Commented on [#39](https://github.com/statico/jsgrids/issues/39) in [statico/jsgrids](https://github.com/statico/jsgrids)
+2. 🗣 Commented on [#39](https://github.com/statico/jsgrids/issues/39) in [statico/jsgrids](https://github.com/statico/jsgrids)
+3. ❌ Reopened PR [#40](https://github.com/statico/jsgrids/pull/40) in [statico/jsgrids](https://github.com/statico/jsgrids)
+4. ❌ Closed PR [#40](https://github.com/statico/jsgrids/pull/40) in [statico/jsgrids](https://github.com/statico/jsgrids)
+5. ❌ Reopened PR [#40](https://github.com/statico/jsgrids/pull/40) in [statico/jsgrids](https://github.com/statico/jsgrids)
 <!--END_SECTION:activity-->
 
 ## 📊 WakaTime Stats
