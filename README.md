@@ -51,7 +51,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C167%20hrs%203%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-954%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-610%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -117,7 +117,7 @@ Kotlin                   9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2022 14:20:37 UTC
+ Last Updated on 20/11/2022 14:43:07 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
