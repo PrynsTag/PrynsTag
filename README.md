@@ -32,11 +32,11 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#312](https://github.com/PrynsTag/oneBarangay-REST-API/pull/312) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-2. 🎉 Merged PR [#311](https://github.com/PrynsTag/oneBarangay-REST-API/pull/311) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-3. 🎉 Merged PR [#310](https://github.com/PrynsTag/oneBarangay-REST-API/pull/310) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-4. 🎉 Merged PR [#309](https://github.com/PrynsTag/oneBarangay-REST-API/pull/309) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-5. 🎉 Merged PR [#308](https://github.com/PrynsTag/oneBarangay-REST-API/pull/308) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+1. ❌ Closed PR [#314](https://github.com/PrynsTag/oneBarangay-REST-API/pull/314) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+2. 🎉 Merged PR [#317](https://github.com/PrynsTag/oneBarangay-REST-API/pull/317) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+3. 🎉 Merged PR [#315](https://github.com/PrynsTag/oneBarangay-REST-API/pull/315) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+4. 🎉 Merged PR [#313](https://github.com/PrynsTag/oneBarangay-REST-API/pull/313) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+5. ❌ Closed PR [#318](https://github.com/PrynsTag/oneBarangay-REST-API/pull/318) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
 <!--END_SECTION:activity-->
 
 ## 📊 WakaTime Stats
