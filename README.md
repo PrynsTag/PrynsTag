@@ -32,11 +32,11 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#329](https://github.com/PrynsTag/oneBarangay-REST-API/pull/329) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-2. 🎉 Merged PR [#327](https://github.com/PrynsTag/oneBarangay-REST-API/pull/327) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-3. 🎉 Merged PR [#328](https://github.com/PrynsTag/oneBarangay-REST-API/pull/328) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-4. ❌ Closed PR [#326](https://github.com/PrynsTag/oneBarangay-REST-API/pull/326) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-5. 🗣 Commented on [#326](https://github.com/PrynsTag/oneBarangay-REST-API/issues/326) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+1. 🎉 Merged PR [#330](https://github.com/PrynsTag/oneBarangay-REST-API/pull/330) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+2. 🗣 Commented on [#21](https://github.com/benphelps/homepage-docs/issues/21) in [benphelps/homepage-docs](https://github.com/benphelps/homepage-docs)
+3. 🗣 Commented on [#21](https://github.com/benphelps/homepage-docs/issues/21) in [benphelps/homepage-docs](https://github.com/benphelps/homepage-docs)
+4. 💪 Opened PR [#21](https://github.com/benphelps/homepage-docs/pull/21) in [benphelps/homepage-docs](https://github.com/benphelps/homepage-docs)
+5. 🎉 Merged PR [#329](https://github.com/PrynsTag/oneBarangay-REST-API/pull/329) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
 <!--END_SECTION:activity-->
 
 ## 📊 WakaTime Stats
