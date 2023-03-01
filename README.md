@@ -32,11 +32,11 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#407](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE/issues/407) in [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE)
-2. 🎉 Merged PR [#330](https://github.com/PrynsTag/oneBarangay-REST-API/pull/330) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
-3. 🗣 Commented on [#21](https://github.com/benphelps/homepage-docs/issues/21) in [benphelps/homepage-docs](https://github.com/benphelps/homepage-docs)
-4. 🗣 Commented on [#21](https://github.com/benphelps/homepage-docs/issues/21) in [benphelps/homepage-docs](https://github.com/benphelps/homepage-docs)
-5. 💪 Opened PR [#21](https://github.com/benphelps/homepage-docs/pull/21) in [benphelps/homepage-docs](https://github.com/benphelps/homepage-docs)
+1. 🎉 Merged PR [#2](https://github.com/PrynsTag/canvas_crawler/pull/2) in [PrynsTag/canvas_crawler](https://github.com/PrynsTag/canvas_crawler)
+2. 🎉 Merged PR [#334](https://github.com/PrynsTag/oneBarangay-REST-API/pull/334) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+3. ❌ Closed PR [#336](https://github.com/PrynsTag/oneBarangay-REST-API/pull/336) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+4. 🗣 Commented on [#336](https://github.com/PrynsTag/oneBarangay-REST-API/issues/336) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+5. 🎉 Merged PR [#335](https://github.com/PrynsTag/oneBarangay-REST-API/pull/335) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
 <!--END_SECTION:activity-->
 
 ## 📊 WakaTime Stats
