@@ -80,16 +80,20 @@ Sunday                   5608 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 mins              █████████████████████████   99.22 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+scrapyRewardsForJustice  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -105,7 +109,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2023 00:55:13 UTC
+ Last Updated on 23/03/2023 00:57:07 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
