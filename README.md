@@ -32,11 +32,11 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4691](https://github.com/AdguardTeam/AdguardForWindows/issues/4691#issuecomment-1595440267) in [AdguardTeam/AdguardForWindows](https://github.com/AdguardTeam/AdguardForWindows)
-2. 🗣 Commented on [#2982](https://github.com/blakeblackshear/frigate/issues/2982#issuecomment-1582253469) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-3. ❗ Opened issue [#219](https://github.com/labd/wagtailstreamforms/issues/219) in [labd/wagtailstreamforms](https://github.com/labd/wagtailstreamforms)
-4. ❗ Opened issue [#4254](https://github.com/microsoft/pylance-release/issues/4254) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-5. 🎉 Merged PR [#371](https://github.com/PrynsTag/oneBarangay-REST-API/pull/371) in [PrynsTag/oneBarangay-REST-API](https://github.com/PrynsTag/oneBarangay-REST-API)
+1. 🗣 Commented on [#579](https://github.com/spotipy-dev/spotipy/issues/579#issuecomment-1637042216) in [spotipy-dev/spotipy](https://github.com/spotipy-dev/spotipy)
+2. 🗣 Commented on [#4691](https://github.com/AdguardTeam/AdguardForWindows/issues/4691#issuecomment-1595440267) in [AdguardTeam/AdguardForWindows](https://github.com/AdguardTeam/AdguardForWindows)
+3. 🗣 Commented on [#2982](https://github.com/blakeblackshear/frigate/issues/2982#issuecomment-1582253469) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+4. ❗ Opened issue [#219](https://github.com/labd/wagtailstreamforms/issues/219) in [labd/wagtailstreamforms](https://github.com/labd/wagtailstreamforms)
+5. ❗ Opened issue [#4254](https://github.com/microsoft/pylance-release/issues/4254) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
 <!--END_SECTION:activity-->
 
 ## 📊 WakaTime Stats
