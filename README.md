@@ -3,7 +3,10 @@
 <div id="top-bar" align="center">
     <h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Hand Wave">, my name is Prince</h3>
     <h4>I am an aspiring Full-Stack Developer!</h4>
-    <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/PrynsTag"/> 
+    <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/PrynsTag"/>
+    <a href="https://strava.com/athletes/prynstag" target="_blank">
+        <img alt="Strava" width="138" src="./img/strava.jpeg">
+    </a>
     <img alt="Codewars" src="https://www.codewars.com/users/PrynsTag/badges/micro">
     <br>
     <img alt="Github Followers" src="https://img.shields.io/github/followers/PrynsTag?label=Github%20Followers"/>
