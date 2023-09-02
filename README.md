@@ -21,6 +21,7 @@
 - 👯 I'm looking to collaborate on full-stack web apps!
 - 💬 Ask me about anything Python and Vue
 - 📫 Connect with me on: [**LinkedIn**][linkedin-url]
+- Hire me on: [**Upwork**][upwork-url]
 
 ## 📊 Github stats
 
@@ -381,13 +382,16 @@ Shell                    1 repo              ░░░░░░░░░░░�
     <a href="https://www.linkedin.com/in/princevelasco/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Shield">
     </a>
-    <a href="https://angel.co/u/prynstag/">
-        <img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" alt="Angellist Shield">
+    <a href="https://www.upwork.com/freelancers/~0187b4ea070a92d353">
+        <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Shield">
     </a>
     <a href="https://my.indeed.com/p/princecarlv-rnxqsk8">
         <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white" alt="Indeed Shield">
     </a>
     <br>
+    <a href="https://angel.co/u/prynstag/">
+        <img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" alt="Angellist Shield">
+    </a>
     <a href="https://twitter.com/PrynsTag">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Shield">
     </a>
@@ -453,6 +457,9 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 [twitter-url]: https://twitter.com/PrynsTag
 [twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+
+[upwork-url]: https://www.upwork.com/freelancers/~0187b4ea070a92d353
+[upwork-shield]: https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white
 
 <!-- Programming Language Shields -->
 [python-shield]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
