@@ -84,17 +84,16 @@ Sunday                   5743 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-HTML                     19 mins             ████████████████░░░░░░░░░   62.47 % 
-Python                   11 mins             █████████░░░░░░░░░░░░░░░░   37.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-3dlabsio-website         31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +109,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2023 00:49:48 UTC
+ Last Updated on 04/10/2023 00:49:54 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
