@@ -53,8 +53,6 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C285%20hrs%2025%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.2%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -109,7 +107,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2025 01:15:21 UTC
+ Last Updated on 02/01/2025 01:07:14 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
