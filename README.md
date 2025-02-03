@@ -84,20 +84,16 @@ Sunday                   5631 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Python                   2 hrs 44 mins       ██████████████░░░░░░░░░░░   57.30 % 
-Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-HTML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 47 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-3dlabsio-website         4 hrs 47 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 47 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +109,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2025 01:09:02 UTC
+ Last Updated on 03/02/2025 01:07:09 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Favorite Tools & Technology
